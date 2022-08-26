@@ -1,0 +1,7 @@
+colorama
+tasksio
+aiohttp
+asyncio
+logging
+sys
+os
